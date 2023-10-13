@@ -1,15 +1,17 @@
-### Hi there 👋
+### Hi, I'm Artur Weigandt 👋
+
+I'm a freelance web developer from Germany and have specialized on refactoring web apps.
+
+## I work with code that your employees don't want to touch.
+
+I'm a web developer since 2005. I love Free and Open Source software. ❤️ 
 
 [![An image of @art4's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/art4)](https://holopin.io/@art4)
 
-I'm Artur Weigandt from Germany and I'm a web developer since 2005. I love Free and Open Source software. ❤️ 
-
-I have specialized on refactoring web apps. I work in places where others run away.
-
 ### 🔭 I’m currently working on ...
 
-- [Simplepie](https://github.com/simplepie/simplepie) - A Atom/RSS parsing library for PHP used by WordPress
-- [kbsalie/php-redmine-api](https://github.com/kbsali/php-redmine-api) - A Redmine API client written in PHP
+<img align="left" alt="simplepie/simplepie" src="https://github-readme-stats.vercel.app/api/pin?username=simplepie&repo=simplepie&show_icons=true&hide_border=true" />
+<img alt="kbsalie/php-redmine-api" src="https://github-readme-stats.vercel.app/api/pin?username=kbsali&repo=php-redmine-api&show_icons=true&hide_border=true" />
 
 ### 👷 I’m the maintainer of these Open Source projects ...
 
@@ -17,13 +19,15 @@ I have specialized on refactoring web apps. I work in places where others run aw
 - [Art4/WP-Requests-PSR18-Adapter](https://github.com/Art4/WP-Requests-PSR18-Adapter) - A PSR-18 adapter for the Requests library
 - [a lot of other projects](https://github.com/Art4?tab=repositories)
 
+<img alt="Art4's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Art4&show_icons=true&hide_border=true" />
+
 ### 💬 Ask me about ...
 
-- Refactoring your PHP code
+- 🐘 Refactoring your PHP code
 - Symfony upgrades
 - WordPress plugins
 - API development
-- custom tooling
+- 🔧 custom tooling
 
 ### 📫 How to reach me:
 
