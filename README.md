@@ -2,7 +2,7 @@
 
 I'm a freelance web developer from Germany and have specialized on refactoring web apps.
 
-## I work with code that your employees don't want to touch.
+## I refactore code that your employees don't want to touch.
 
 I'm a web developer since 2005. I love Free and Open Source software. ❤️ 
 
