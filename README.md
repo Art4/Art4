@@ -10,8 +10,12 @@ I'm a web developer since 2005. I love Free and Open Source software. ❤️
 
 ### 🔭 I’m currently working on ...
 
-<img align="left" alt="simplepie/simplepie" src="https://github-readme-stats.vercel.app/api/pin?username=simplepie&repo=simplepie&show_icons=true&hide_border=true" />
-<img alt="kbsalie/php-redmine-api" src="https://github-readme-stats.vercel.app/api/pin?username=kbsali&repo=php-redmine-api&show_icons=true&hide_border=true" />
+<a href="https://github.com/simplepie/simplepie/">
+  <img align="left" alt="simplepie/simplepie" src="https://github-readme-stats.vercel.app/api/pin?username=simplepie&repo=simplepie&show_icons=true&hide_border=true" />
+</a>
+<a href="https://github.com/kbsali/php-redmine-api">
+  <img alt="kbsalie/php-redmine-api" src="https://github-readme-stats.vercel.app/api/pin?username=kbsali&repo=php-redmine-api&show_icons=true&hide_border=true" />
+</a>
 
 ### 👷 I’m the maintainer of these Open Source projects ...
 
@@ -53,7 +57,7 @@ I'm a web developer since 2005. I love Free and Open Source software. ❤️
 
 ### 📫 How to reach me:
 
-- See my website: https://wlabs.de/kontakt
+- See my website: https://weigandtlabs.de
 - On Fiverr: https://www.fiverr.com/users/weigandtlabs/
 
 <!--
