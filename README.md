@@ -10,18 +10,23 @@ I'm a web developer since 2005. I love Free and Open Source software. ❤️
 
 ### 🔭 I’m currently working on ...
 
+<a href="https://github.com/friendica/friendica/">
+  <img align="left" alt="friendica/friendica" src="https://github-readme-stats.vercel.app/api/pin?username=friendica&repo=friendica&show_icons=true&hide_border=true" />
+</a>
 <a href="https://github.com/simplepie/simplepie/">
   <img align="left" alt="simplepie/simplepie" src="https://github-readme-stats.vercel.app/api/pin?username=simplepie&repo=simplepie&show_icons=true&hide_border=true" />
 </a>
 <a href="https://github.com/kbsali/php-redmine-api">
-  <img alt="kbsalie/php-redmine-api" src="https://github-readme-stats.vercel.app/api/pin?username=kbsali&repo=php-redmine-api&show_icons=true&hide_border=true" />
+  <img alt="kbsali/php-redmine-api" src="https://github-readme-stats.vercel.app/api/pin?username=kbsali&repo=php-redmine-api&show_icons=true&hide_border=true" />
 </a>
 
-### 👷 I’m the maintainer of these Open Source projects ...
+### 👷 I’m a maintainer of these Open Source projects ...
 
+- [Simplepie](https://github.com/simplepie/simplepie) - A Atom/RSS parsing library for PHP; shiped with WordPress.
+- [PHP Redmine Api](https://github.com/kbsali/php-redmine-api) - A simple but powerful Redmine API client in PHP.
 - [Art4/json-api-client](https://github.com/Art4/json-api-client) - A PHP library to parse JSON API documents. 
 - [Art4/WP-Requests-PSR18-Adapter](https://github.com/Art4/WP-Requests-PSR18-Adapter) - A PSR-18 adapter for the Requests library
-- and a lot of [other projects](https://github.com/Art4?tab=repositories)
+- and [a lot of other projects](https://github.com/Art4?tab=repositories)
 
 <img alt="Art4's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Art4&show_icons=true&hide_border=true" />
 
