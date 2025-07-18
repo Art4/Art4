@@ -28,6 +28,7 @@ I'm a web developer since 2005. I love Free and Open Source software. ❤️
 - [PHP Redmine Api](https://github.com/kbsali/php-redmine-api) - A simple but powerful Redmine API client in PHP.
 - [Art4/json-api-client](https://github.com/Art4/json-api-client) - A PHP library to parse JSON API documents. 
 - [Art4/WP-Requests-PSR18-Adapter](https://github.com/Art4/WP-Requests-PSR18-Adapter) - A PSR-18 adapter for the Requests library
+- [Art4/UrlLinker](https://github.com/Art4/urllinker) - A PHP library converting any web addresses in plain text into HTML hyperlinks
 - and [a lot of other projects](https://github.com/Art4?tab=repositories)
 
 ### Languages and Tools:
